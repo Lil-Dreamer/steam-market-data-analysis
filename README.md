@@ -28,4 +28,5 @@ This project explores the economic structure of the Steam marketplace. By combin
 ---
 
 ## 📊 Dashboard Preview
-<img width="1476" height="827" alt="image" src="https://github.com/user-attachments/assets/a229f735-6625-4847-8a5d-085c7df89e60" />
+<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/752a22ae-2a15-4095-9892-71256328de5c" />
+
